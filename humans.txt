@@ -1,0 +1,35 @@
+﻿01001101 01100001 01100100 01100101 01100010 01111001 01010100 
+	 01101111 01100010 01101001 01100001 01110011 01010011 
+	 01101011 01100001 01110010 01101000 01100101 01100100                                                                                                                     
+                                                                                                                            dddddddd
+   SSSSSSSSSSSSSSS kkkkkkkk                                             hhhhhhh                                             d::::::d
+ SS:::::::::::::::Sk::::::k                                             h:::::h                                             d::::::d
+S:::::SSSSSS::::::Sk::::::k                                             h:::::h                                             d::::::d
+S:::::S     SSSSSSSk::::::k                                             h:::::h                                             d:::::d 
+S:::::S             k:::::k    kkkkkkkaaaaaaaaaaaaa  rrrrr   rrrrrrrrr   h::::h hhhhh           eeeeeeeeeeee        ddddddddd:::::d 
+S:::::S             k:::::k   k:::::k a::::::::::::a r::::rrr:::::::::r  h::::hh:::::hhh      ee::::::::::::ee    dd::::::::::::::d 
+ S::::SSSS          k:::::k  k:::::k  aaaaaaaaa:::::ar:::::::::::::::::r h::::::::::::::hh   e::::::eeeee:::::ee d::::::::::::::::d 
+  SS::::::SSSSS     k:::::k k:::::k            a::::arr::::::rrrrr::::::rh:::::::hhh::::::h e::::::e     e:::::ed:::::::ddddd:::::d 
+    SSS::::::::SS   k::::::k:::::k      aaaaaaa:::::a r:::::r     r:::::rh::::::h   h::::::he:::::::eeeee::::::ed::::::d    d:::::d 
+       SSSSSS::::S  k:::::::::::k     aa::::::::::::a r:::::r     rrrrrrrh:::::h     h:::::he:::::::::::::::::e d:::::d     d:::::d 
+            S:::::S k:::::::::::k    a::::aaaa::::::a r:::::r            h:::::h     h:::::he::::::eeeeeeeeeee  d:::::d     d:::::d 
+            S:::::S k::::::k:::::k  a::::a    a:::::a r:::::r            h:::::h     h:::::he:::::::e           d:::::d     d:::::d 
+SSSSSSS     S:::::Sk::::::k k:::::k a::::a    a:::::a r:::::r            h:::::h     h:::::he::::::::e          d::::::ddddd::::::dd
+S::::::SSSSSS:::::Sk::::::k  k:::::ka:::::aaaa::::::a r:::::r            h:::::h     h:::::h e::::::::eeeeeeee   d:::::::::::::::::d
+S:::::::::::::::SS k::::::k   k:::::ka::::::::::aa:::ar:::::r            h:::::h     h:::::h  ee:::::::::::::e    d:::::::::ddd::::d
+ SSSSSSSSSSSSSSS   kkkkkkkk    kkkkkkkaaaaaaaaaa  aaaarrrrrrr            hhhhhhh     hhhhhhh    eeeeeeeeeeeeee     ddddddddd   ddddd
+                                                                                                                                    
+
+/*TEAM*/
+Author	: Tobias Skarhed
+Site	: http://skarhed.com
+Twitter	: @DehraX
+Location: Västerås, Sweden
+
+/*SITE*/
+Last update	: 2014/08/22
+Standards	: HTML5, CSS3
+Components	: HTML5 Boilerplate Serverside
+Software	: Sublime Text 2 (Unregistered), Adobe Illustrator CS5
+
+               
